@@ -19,5 +19,6 @@ public class MyApplication {
         SpringApplication.run(MyApplication.class,args);
         System.out.println("测试master修改");
         System.out.println("测试hotfix修改");
+        System.out.println("修改1");
     }
 }
